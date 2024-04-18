@@ -8,7 +8,7 @@ I'm a passionate developer who loves creating and building things. This is my Gi
 
 - ## Fun Fact
 
-Share a fun or interesting fact about yourself!
+
 
 Thanks for visiting my GitHub profile. 😄
 
