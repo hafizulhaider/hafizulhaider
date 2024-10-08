@@ -6,7 +6,7 @@ I'm a passionate developer who loves creating and building things. This is my Gi
 - 💞️ I’m looking to collaborate on HTML/CSS
 - 📫 How to reach me rthafizulhaider@gmail.com
 
-- ## Fun Fact
+
 
 
 
